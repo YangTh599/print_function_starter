@@ -12,4 +12,7 @@ print("I am Inevitable..")
 
 #Exercise 2-6
 
-print("And I am Ironman..")
+famous_person = "Robert Downey Jr."
+famous_quote = "And I am Ironman.."
+message = (f'{famous_person} once said for the final time: "{famous_quote}"')
+print(message)
